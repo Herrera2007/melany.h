@@ -1,0 +1,42 @@
+.primer_cuadro{
+    background-color: green;
+    width: 450px;
+    height: 800px;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 20px;
+}
+.segundo_cuadro{
+    background-color: white;
+    width: 350px;
+    height: 700px;
+    margin:auto;
+    padding: 20px;
+    margin-top: 30px;
+}
+.tercer_cuadro{
+    background-color:rgb(184, 140, 31);
+    width: 300px;
+    height: 650px;
+    margin:auto;
+}
+.contenido{
+    color: rgb(27, 60, 167);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-top: 20px;
+}
+.name_div h2{
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+.name_div{
+    background-color: rgb(181, 134, 202);
+    width: 400px;
+    height: 100px;
+    font-family:'Times New Roman', Times, serif;
+    margin:auto;
+    margin-bottom: 40px;
+}
